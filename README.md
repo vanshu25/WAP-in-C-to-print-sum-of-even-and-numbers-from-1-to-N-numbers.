@@ -1,0 +1,1 @@
+# WAP-in-C-to-print-sum-of-even-and-numbers-from-1-to-N-numbers.
