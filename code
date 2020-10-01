@@ -13,5 +13,6 @@ void main(){
    }
  }
  sum = sum_1 + sum_2;
- printf("sum of even and odd numbers = %d",sum);
+ printf("sum of even numbers= %d and sum of odd numbers = %d",sum_1,sum_2);
+ printf("\nAnd the sum of all numbers is = %d",sum);
 }
